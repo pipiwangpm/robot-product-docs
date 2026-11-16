@@ -1,0 +1,38 @@
+[
+  {
+    "id": "manual",
+    "title": "用户手册",
+    "filename": "GONGKA Robot 用户手册.pdf",
+    "pages": 10,
+    "bytes": 1906248,
+    "version": "V1.0",
+    "date": "2026.11.16"
+  },
+  {
+    "id": "technical",
+    "title": "技术手册",
+    "filename": "GONGKA Robot 技术手册.pdf",
+    "pages": 27,
+    "bytes": 1813988,
+    "version": "V1.0",
+    "date": "2026.11.16"
+  },
+  {
+    "id": "sdk",
+    "title": "SDK 使用指南",
+    "filename": "GONGKA Robot SDK 使用指南.pdf",
+    "pages": 6,
+    "bytes": 1569220,
+    "version": "V1.0",
+    "date": "2026.11.16"
+  },
+  {
+    "id": "api",
+    "title": "API 接口参考",
+    "filename": "GONGKA Robot API 接口参考.pdf",
+    "pages": 35,
+    "bytes": 1720309,
+    "version": "V1.0",
+    "date": "2026.11.16"
+  }
+]
