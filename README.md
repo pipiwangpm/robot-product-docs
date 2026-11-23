@@ -15,3 +15,5 @@
 贡嘎原有 #manual、#technical、#sdk、#api 链接继续兼容。新链接使用 #gongka-edu/册别/章节 、#tangpa-edu/册别/章节 或 #raydino/册别/章节。
 
 本站由仓库 main 分支根目录通过 GitHub Pages 发布。
+
+RayDino 用户手册 V1.2（2026-11-23）已补充第5章电池充电：黄色供电插头、白色充电插头、USB充电转换器、指示灯与充电结束步骤。
