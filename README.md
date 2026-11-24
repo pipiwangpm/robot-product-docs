@@ -2,7 +2,7 @@
 
 成都人形机器人创新中心产品资料与教学资源。
 
-当前产品：贡嘎机器人 EDU、镋钯机器人 EDU、RayX 产品线 RayDino（恐龙），共 13 册 PDF 文档。
+当前产品：贡嘎机器人 EDU、镋钯机器人 EDU、RayX 产品线 RayDino（恐龙），共 15 册 PDF 文档。
 
 - [RayDino BSP 技术与接口手册](https://pipiwangpm.github.io/robot-product-docs/#raydino/bsp)
 - [RayDino（恐龙）用户手册](https://pipiwangpm.github.io/robot-product-docs/#raydino/manual)
@@ -21,3 +21,7 @@ RayDino 用户手册 V1.4（2026-11-23）已补充第5章电池充电：黄色�
 充电配图采用透明背景、无品牌版本，并标注白色插头卡扣朝接口最左侧；正文统一使用高性能锂电池、配套充电转换器等通用名称。
 
 用户手册 V1.4 增补日常养护、故障排查与使用问答、现场管理、售后送修及免责协议，合计15页。
+
+- [镋钯 App 使用手册](https://pipiwangpm.github.io/robot-product-docs/#tangpa-edu/app-manual)
+
+- [镋钯管理平台使用手册](https://pipiwangpm.github.io/robot-product-docs/#tangpa-edu/platform-manual)
