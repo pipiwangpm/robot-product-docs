@@ -16,7 +16,7 @@
 
 本站由仓库 main 分支根目录通过 GitHub Pages 发布。
 
-RayDino 用户手册 V1.4（2026-11-23）已补充第5章电池充电：黄色供电插头、白色充电插头、USB充电转换器、指示灯与充电结束步骤。
+RayDino 用户手册 V1.5（2026-11-24）已补充第5章电池充电：黄色供电插头、白色充电插头、USB充电转换器、指示灯与充电结束步骤。
 
 充电配图采用透明背景、无品牌版本，并标注白色插头卡扣朝接口最左侧；正文统一使用高性能锂电池、配套充电转换器等通用名称。
 
@@ -25,3 +25,5 @@ RayDino 用户手册 V1.4（2026-11-23）已补充第5章电池充电：黄色�
 - [镋钯 App 使用手册](https://pipiwangpm.github.io/robot-product-docs/#tangpa-edu/app-manual)
 
 - [镋钯管理平台使用手册](https://pipiwangpm.github.io/robot-product-docs/#tangpa-edu/platform-manual)
+
+用户手册 V1.5（15页）：新增第9.7节版权及免责声明、第8.3节停用与回收；移除尚未定版的整机重量。RayDino 保持首位。
