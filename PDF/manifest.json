@@ -3,19 +3,19 @@
     "id": "manual",
     "title": "用户手册",
     "filename": "GONGKA Robot 用户手册.pdf",
-    "pages": 10,
-    "bytes": 1906248,
-    "version": "V1.0",
-    "date": "2026.11.16"
+    "pages": 11,
+    "bytes": 1918434,
+    "version": "V1.1",
+    "date": "2026.11.25"
   },
   {
     "id": "technical",
     "title": "技术手册",
     "filename": "GONGKA Robot 技术手册.pdf",
-    "pages": 27,
-    "bytes": 1813988,
-    "version": "V1.0",
-    "date": "2026.11.16"
+    "pages": 29,
+    "bytes": 1910047,
+    "version": "V1.1",
+    "date": "2026.11.25"
   },
   {
     "id": "sdk",
